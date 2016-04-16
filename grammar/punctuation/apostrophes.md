@@ -4,16 +4,18 @@
 * _a woman's hat_
 * _the boss's wife_
 * _Mrs. Chang's house_
+* _The horse's grain_
 
 <br>
 ...TODO: other rules...
 <br><br>
 
-######  *Rule 8*. The personal pronouns hers, ours, yours, theirs, its, whose, and the pronoun oneself never take an apostrophe.
+######  *Rule 8*. The personal pronouns hers, ours, yours, theirs, whose, and the pronoun oneself never take an apostrophe.
 
 **_Examples:_**<br>
 
-**_Correct:_** Feed a horse grain. It's better for its health.<br>
+**_Incorrect:_** Feed a horse grain. It's better for its health.<br>
+**_Correct:_** Feed a horse grain. It's better for it's health.<br>
 
 **_Incorrect:_** Who's glasses are these?<br>
 **_Correct:_** Whose glasses are these?
